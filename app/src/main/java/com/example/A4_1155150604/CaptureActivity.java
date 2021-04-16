@@ -8,5 +8,6 @@ public class CaptureActivity extends com.journeyapps.barcodescanner.CaptureActiv
 /*fuck you again*/
     /*fuck you again*/
     /*fuck you again*/
+    /*test3*/
 }
 
